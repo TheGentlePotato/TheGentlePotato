@@ -3,8 +3,12 @@ Hi! I’m a Cybersecurity student with a strong interest in Security Operations 
 
 I continuously improve my technical skills through hands-on practice, including CTF challenges and practical lab exercises. I am particularly interested in network security, log analysis, digital forensics, and incident response. My goal is to build a strong technical foundation and develop into a skilled SOC analyst who can effectively protect and monitor organizational systems.
 
-# 🚀 My Projects
-[![Projects](https://img.shields.io/badge/🚀%20My%20Projects-4B0082?style=for-the-badge&labelColor=1E1E2E&color=6C63FF)](https://github.com/TheGentlePotato/My_Projects)
+## 🛡️ Cybersecurity Portfolio
+
+[![🚀 My Projects](https://img.shields.io/badge/🚀%20My%20Projects-1E1E2E?style=for-the-badge&color=8A2BE2&labelColor=0D1117)](https://github.com/TheGentlePotato/My_Projects)
+
+[![🎓 My Certificates](https://img.shields.io/badge/🎓%20My%20Certificates-1E1E2E?style=for-the-badge&color=9B30FF&labelColor=0D1117)](https://github.com/TheGentlePotato/My_Certificates)
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
