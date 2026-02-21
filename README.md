@@ -5,8 +5,8 @@ I continuously improve my technical skills through hands-on practice, including 
 
 ## 🛡️ Cybersecurity Portfolio
 
-[![My Projects](https://svg-banners.vercel.app/api?type=origin&text1=My%20Projects&text2=&width=220&height=45)](https://github.com/TheGentlePotato/My_Projects)
-[![My Certificates](https://svg-banners.vercel.app/api?type=origin&text1=My%20Certificates&text2=&width=240&height=45)](https://github.com/TheGentlePotato/My_Certificates)
+[![My Projects](./assets/my-projects.svg)](https://github.com/TheGentlePotato/My_Projects)
+[![My Certificates](./assets/my-certificates.svg)](https://github.com/TheGentlePotato/My_Certificates)
 
 
 # 💻 Tech Stack:
